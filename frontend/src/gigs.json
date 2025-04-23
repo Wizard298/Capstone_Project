@@ -1,0 +1,450 @@
+[
+    {
+        "_id": {
+            "$oid": "680729ba742eeac51537a6da"
+        },
+        "title": "I will build a modern website",
+        "description": "I will create an frontend website using html, css and javascript",
+        "name": "NoOne",
+        "price": 799,
+        "email": "noOne098245@gmail.com",
+        "phoneNumber": "8975427845",
+        "location": "Chennai",
+        "category": "Web Developer",
+        "experience": 2,
+        "days": 11,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745299900/job-postings/taoup1xywxsskjbcv9ei.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T05:31:39.056Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:13:51.068Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "680729ba742eeac51537a6da"
+        },
+        "title": "I will build a modern website",
+        "description": "I will create an frontend website using html, css and javascript",
+        "name": "NoOne",
+        "price": 799,
+        "email": "noOne098245@gmail.com",
+        "phoneNumber": "8975427845",
+        "location": "Chennai",
+        "category": "Web Developer",
+        "experience": 2,
+        "days": 11,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745299900/job-postings/taoup1xywxsskjbcv9ei.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T05:31:39.056Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:13:51.068Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68073686742eeac51537a770"
+        },
+        "title": " AI Portrait Generator",
+        "description": "I will create stunning AI-generated portraits based on your photos.",
+        "name": "Aryan Mehta",
+        "price": 1200,
+        "email": "aryan.aiart@gmail.com",
+        "phoneNumber": "9876543210",
+        "location": "Mumbai",
+        "category": "AI Artist",
+        "experience": 2,
+        "days": 8,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745303176/job-postings/jtovir24nypgy0cf1rce.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:26:14.442Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:26:14.442Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68073765742eeac51537a776"
+        },
+        "title": "AI Avatars",
+        "description": " Transform yourself into a futuristic AI avatar using neural networks.",
+        "name": "Sneha Verma",
+        "price": 1500,
+        "email": "sneha.artai@gmail.com",
+        "phoneNumber": "9123456789",
+        "location": "Pune",
+        "category": "AI Artist",
+        "experience": 2,
+        "days": 11,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745303399/job-postings/h3oq2ouwqnnwn1dfizfx.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:29:57.884Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:29:57.884Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68073844742eeac51537a790"
+        },
+        "title": "Professional Business Logo",
+        "description": "I will design a modern, scalable logo for your brand.",
+        "name": "Rajat Singh",
+        "price": 999,
+        "email": "rajdesigns@gmail.com",
+        "phoneNumber": "9345678123",
+        "location": "Delhi",
+        "category": "Logo Design",
+        "experience": 3,
+        "days": 5,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745303621/job-postings/pqsvvisqv3rn9imiqxnp.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:33:40.237Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:33:40.237Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "680738c2742eeac51537a796"
+        },
+        "title": "WordPress Business Site",
+        "description": "I will build a responsive WordPress business website with SEO.",
+        "name": "Mohit Sharma",
+        "price": 898,
+        "email": "mohitdevwp@gmail.com",
+        "phoneNumber": "9988776655",
+        "location": "Noida",
+        "category": "Wordpress",
+        "experience": 2,
+        "days": 8,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745303747/job-postings/hexdkavbfabinqyycz1f.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:35:46.022Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:35:46.022Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68073924742eeac51537a79c"
+        },
+        "title": "Male Voice Over for Explainer Videos",
+        "description": "I will record a professional English voice over for your explainer or ad video.",
+        "name": "Arjun Iyer",
+        "price": 945,
+        "email": "arjun.vo@gmail.com",
+        "phoneNumber": "9871203456",
+        "location": "Bangalore",
+        "category": "Voice Over",
+        "experience": 5,
+        "days": 3,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745303846/job-postings/nh8muh7ill7rmv4vlsxh.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:37:24.912Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:37:24.912Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "680739a5742eeac51537a7a2"
+        },
+        "title": "MERN Stack Web Application",
+        "description": "I will develop full-stack MERN web apps with authentication.",
+        "name": "Devansh Chauhan",
+        "price": 1298,
+        "email": "devcode@gmail.com",
+        "phoneNumber": "9112233445",
+        "location": "Hyderabad",
+        "category": "Programming & Tech",
+        "experience": 4,
+        "days": 7,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745303975/job-postings/jschfcbugddfi1ga10c8.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:39:33.729Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:39:33.729Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68073aad742eeac51537a7bd"
+        },
+        "title": "Professional Photo Retouching",
+        "description": " I will edit and retouch your photos to look clean and professional.",
+        "name": "Simran Kaur",
+        "price": 799,
+        "email": "simran.editz@gmail.com",
+        "phoneNumber": "9845610011",
+        "location": "Chandigarh",
+        "category": "Photo Editor",
+        "experience": 3,
+        "days": 10,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745304238/job-postings/d40ko4cmpyez0cv2nvko.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:43:57.378Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:43:57.378Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68073b3d742eeac51537a7c3"
+        },
+        "title": "SEO Blog Writing",
+        "description": " I will write a 1000-word SEO-optimized blog post for your site.",
+        "name": "Isha Malhotra",
+        "price": 1199,
+        "email": "isha.writerpro@gmail.com",
+        "phoneNumber": "9988007766",
+        "location": "Jaipur",
+        "category": "Content Writer",
+        "experience": 3,
+        "days": 3,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745304382/job-postings/l6wfngi0r5dqcgwxs3re.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:46:21.248Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:47:06.193Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68073c0a742eeac51537a7de"
+        },
+        "title": "Facebook & Instagram Ad Campaign",
+        "description": " I will create and manage high-converting ad campaigns on Facebook and Instagram.",
+        "name": "Rohan Sharma",
+        "price": 1399,
+        "email": "rohan.ads360@gmail.com",
+        "phoneNumber": "9876543210",
+        "location": "Lucknow",
+        "category": "Digital Marketing",
+        "experience": 3,
+        "days": 2,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745304587/job-postings/q8fkfgj4gkasqnj0bv7n.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:49:46.264Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:49:46.264Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68073c8b742eeac51537a7e4"
+        },
+        "title": "Technical SEO Audit & Fixes",
+        "description": "I will audit your website and fix technical SEO issues for better ranking.",
+        "name": " Ankur Sharma",
+        "price": 1499,
+        "email": "ankur.seoexpert@gmail.com",
+        "phoneNumber": "9312345678",
+        "location": "Chandigarh",
+        "category": "SEO Expert",
+        "experience": 4,
+        "days": 3,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745304716/job-postings/xoogjntmbvnnfubjstbd.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:51:55.382Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:51:55.382Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68073cff742eeac51537a7ea"
+        },
+        "title": "Social Media Strategy & Content Plan",
+        "description": "I will create a complete social media content strategy for your brand.",
+        "name": "Tushar Jain",
+        "price": 999,
+        "email": "tushar.smm@gmail.com",
+        "phoneNumber": "9701234567",
+        "location": "Delhi",
+        "category": "Social Media Manager",
+        "experience": 6,
+        "days": 1,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745304833/job-postings/oxilg72kjce9l9umaw1e.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:53:51.742Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:53:51.742Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68073d81742eeac51537a7f0"
+        },
+        "title": "Mobile App UI Design",
+        "description": "I will design intuitive, modern UI for your iOS or Android app in Figma.",
+        "name": "Alok Verma",
+        "price": 1011,
+        "email": "alok.uidesign@gmail.com",
+        "phoneNumber": "9090123456",
+        "location": "Bangalore",
+        "category": "UI/UX Designer",
+        "experience": 5,
+        "days": 3,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745304963/job-postings/lgkhtdnt9dnuj87mzboh.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:56:01.628Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:56:01.628Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68073e0a742eeac51537a7f6"
+        },
+        "title": "Custom Character Illustration",
+        "description": "I will draw a colorful custom cartoon or character illustration.",
+        "name": "Vinay Nair",
+        "price": 1699,
+        "email": "vinay.illustrates@gmail.com",
+        "phoneNumber": "9877001122",
+        "location": "Kolkata",
+        "category": "Illustration",
+        "experience": 6,
+        "days": 4,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745305100/job-postings/fxttgpk89lowrckiwn3m.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T06:58:18.488Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T06:58:18.488Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "68073e9d742eeac51537a7fc"
+        },
+        "title": " English to Hindi Translation",
+        "description": " I will translate your documents or content from English to Hindi accurately.",
+        "name": "Rajeev Mishra",
+        "price": 499,
+        "email": "rajeev.translator@gmail.com",
+        "phoneNumber": "9765432178",
+        "location": "Bhopal",
+        "category": "Translation",
+        "experience": 4,
+        "days": 1,
+        "image": "https://res.cloudinary.com/dfsfdpcbb/image/upload/v1745305247/job-postings/otasc3lmzxl36usdn5c0.jpg",
+        "checkPayment": false,
+        "created_by": {
+            "$oid": "6805fee3ef187b59713c4b73"
+        },
+        "applications": [],
+        "createdAt": {
+            "$date": "2025-04-22T07:00:45.784Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-22T07:00:45.784Z"
+        },
+        "__v": 0
+    }
+]
